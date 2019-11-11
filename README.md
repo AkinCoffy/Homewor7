@@ -1,2 +1,2 @@
-# Homewor7
+# Homework7
 JavaScript Canvas Element
